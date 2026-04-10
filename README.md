@@ -1,72 +1,127 @@
-<h2 align="left">Hi 👋! My name is Rahul Singh Patel and I'm a Full Stack Developer</h2>
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Full+Stack+Developer+🚀;C%2B%2B+%7C+JavaScript+%7C+React+Expert;Node.js+%7C+Express+%7C+MongoDB;Always+learning+new+things!" alt="Typing SVG" />
-</p>
+<!-- Clean Typographic Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=A0C4FF&center=true&vCenter=true&width=600&height=80&lines=Rahul+Singh+Patel" alt="Name" />
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=800&color=6C8EBF&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Roles" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rahulsingh7985&color=a0c4ff&style=flat-square&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Rahulsingh7985?color=a0c4ff&style=flat-square&label=Followers" />
+
+</div>
+
+<br/>
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 👋 About Me
+
+```javascript
+const rahul = {
+  name     : "Rahul Singh Patel",
+  location : "Indore, India 🇮🇳",
+  role     : "Full Stack Developer",
+  languages: ["C++", "JavaScript", "Python"],
+  frontend : ["React", "HTML5", "CSS3"],
+  backend  : ["Node.js", "Express.js"],
+  databases: ["MongoDB", "MySQL"],
+  learning : "System Design & DSA",
+};
+```
+
+<br clear="both"/>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulsingh7985&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulsingh7985&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+
+<!-- Row 1: Stats + Languages side by side -->
+<!-- <table border="0" cellspacing="0" cellpadding="8" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Rahulsingh7985&show_icons=true&include_all_commits=true&count_private=true&border_radius=14&bg_color=0a1628&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0&border_color=1e3a5f" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahulsingh7985&layout=donut&border_radius=14&bg_color=0a1628&title_color=60a5fa&text_color=e2e8f0&border_color=1e3a5f&langs_count=6" width="100%" />
+    </td>
+  </tr>
+</table> -->
+
+<!-- Row 2: Full-width Streak -->
+<img src="https://streak-stats.demolab.com?user=Rahulsingh7985&hide_border=true&background=aliceblue&ring=2563eb&fire=f59e0b&currStreakLabel=1e3a8a&sideLabels=1e3a8a&dates=334155&sideNums=0f172a&currStreakNum=0f172a" width="75%" />
+
+
+<!-- Row 3: Trophies -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Rahulsingh7985&theme=algolia&no-frame=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="80%" /> -->
+
 </div>
 
-###
+---
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
-</div>
-
-###
-
-<br clear="both">
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulsingh7985&theme=tokyonight&hide_border=false" height="150" alt="streak stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=eff6ff&color=1d4ed8&line=2563eb&point=1d4ed8&area_color=bfdbfe&area=true&hide_border=false&border_color=bfdbfe&radius=14&custom_title=Rahul's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" width="80%" />
+</picture>
+
 </div>
 
-###
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahulsingh7985&theme=tokyonight&no-frame=false&row=1&column=6" alt="trophies" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Rahulsingh7985/Rahulsingh7985/output/snake.svg" alt="Snake animation" />
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
