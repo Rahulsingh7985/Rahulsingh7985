@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean Typographic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=A0C4FF&center=true&vCenter=true&width=600&height=80&lines=Rahul+Singh+Patel" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=10000&color=A0C4FF&center=true&vCenter=true&width=600&height=80&lines=Rahul+Singh+Patel" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=800&color=6C8EBF&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Roles" />
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
 
 ### 👋 About Me
 
@@ -29,6 +29,7 @@ const rahul = {
   backend  : ["Node.js", "Express.js"],
   databases: ["MongoDB", "MySQL"],
   learning : "System Design & DSA",
+
 };
 ```
 
@@ -100,7 +101,7 @@ const rahul = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=eff6ff&color=1d4ed8&line=2563eb&point=1d4ed8&area_color=bfdbfe&area=true&hide_border=false&border_color=bfdbfe&radius=14&custom_title=Rahul's%20Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" width="75%" />
 </picture>
 
 </div>
