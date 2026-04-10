@@ -1,39 +1,42 @@
+# Hi, I'm Rahul Singh Patel 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=800&color=0284C7&width=600&height=40&lines=Full+Stack+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Roles" />
+
+<br/>
 <div align="center">
-
-<!-- Clean Typographic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=10000&color=A0C4FF&center=true&vCenter=true&width=600&height=80&lines=Rahul+Singh+Patel" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=800&color=6C8EBF&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Roles" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rahulsingh7985&color=a0c4ff&style=flat-square&label=Profile+Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Rahulsingh7985?color=a0c4ff&style=flat-square&label=Followers" />
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
-
 <br/>
+Welcome to my GitHub profile! I'm Rahul Singh Patel, a passionate Full Stack Developer who loves building modern, scalable, and user-friendly applications.
 
-<!-- <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
+I am currently pursuing a B.Tech in Information Technology with a specialization in AI & Robotics at Madhav Institute of Technology & Science.
 
-### 👋 About Me
+I have hands-on experience in C++, JavaScript, React, Node.js, Express, MongoDB, and MySQL. I enjoy building real-world projects and continuously improving my problem-solving skills.
+
+I am particularly interested in Web Development, Software Engineering, and exploring new technologies.
+
+Currently, I am focused on:                                                                                                              
+• Building full-stack projects                                                                                                           
+• Strengthening DSA and problem-solving                                                                                                 
+• Learning advanced backend and system design                                                                                           
+
+I believe in learning by building and sharing knowledge through projects. I'm always open to collaboration and exciting opportunities.
+
+---
+
+### 🧠 Quick Info
 
 ```javascript
 const rahul = {
-  name     : "Rahul Singh Patel",
-  location : "Indore, India 🇮🇳",
-  role     : "Full Stack Developer",
+  name: "Rahul Singh Patel",
+  role: "Full Stack Developer",
+  education: "B.Tech IT (AI & Robotics)",
   languages: ["C++", "JavaScript", "Python"],
-  frontend : ["React", "HTML5", "CSS3"],
-  backend  : ["Node.js", "Express.js"],
-  databases: ["MongoDB", "MySQL"],
-  learning : "System Design & DSA",
-
+  frontend: ["React", "HTML", "CSS"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB", "MySQL"],
+  focus: "DSA & Building full-stack projects"
 };
 ```
-
-<br clear="both"/>
 
 ---
 
@@ -41,70 +44,29 @@ const rahul = {
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-**Tools**
+**Tools** 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Row 1: Stats + Languages side by side -->
-<!-- <table border="0" cellspacing="0" cellpadding="8" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Rahulsingh7985&show_icons=true&include_all_commits=true&count_private=true&border_radius=14&bg_color=0a1628&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0&border_color=1e3a5f" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahulsingh7985&layout=donut&border_radius=14&bg_color=0a1628&title_color=60a5fa&text_color=e2e8f0&border_color=1e3a5f&langs_count=6" width="100%" />
-    </td>
-  </tr>
-</table> -->
-
-<!-- Row 2: Full-width Streak -->
-<img src="https://streak-stats.demolab.com?user=Rahulsingh7985&hide_border=true&background=aliceblue&ring=2563eb&fire=f59e0b&currStreakLabel=1e3a8a&sideLabels=1e3a8a&dates=334155&sideNums=0f172a&currStreakNum=0f172a" width="75%" />
-
-
-<!-- Row 3: Trophies -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Rahulsingh7985&theme=algolia&no-frame=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="80%" /> -->
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=eff6ff&color=1d4ed8&line=2563eb&point=1d4ed8&area_color=bfdbfe&area=true&hide_border=false&border_color=bfdbfe&radius=14&custom_title=Rahul's%20Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulsingh7985&bg_color=0a1628&color=60a5fa&line=3b82f6&point=f8fafc&area_color=1d4ed8&area=true&hide_border=false&border_color=1e3a5f&radius=14&custom_title=Rahul's%20Contribution%20Graph" width="75%" />
-</picture>
-
-</div>
 
 ---
 
@@ -112,10 +74,9 @@ const rahul = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rahulsingh835789@gmail.com)
+[![Leetcode](https://camo.githubusercontent.com/8f88b511738d980c334d7e4d2c74413ee9dfd12b8a6a6f35d88678714a58216c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d626c61636b)](https://leetcode.com/u/Rahulsingh7985/)
 
 </div>
 
@@ -123,6 +84,6 @@ const rahul = {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+✨ *"First, solve the problem. Then, write the code."* ✨
 
 </div>
